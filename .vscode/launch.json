@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LogOutputApplication<log_output>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.log_output.LogOutputApplication",
+            "projectName": "log_output",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
