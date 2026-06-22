@@ -4,4 +4,4 @@
 
 ### Chapter 2
 
-- [1.1](https://github.com/Adamin88/Kubernetes_MOOC/tree/log_output)
+- [1.1](https://github.com/Adamin88/Kubernetes_MOOC/tree/master/log_output)
